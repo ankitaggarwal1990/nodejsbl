@@ -1,4 +1,5 @@
 // Todo App
+alert("hfhjfjf");
 var DocumentDBClient = require('documentdb').DocumentClient;
 var config = require('./config');
 var TaskList = require('./routes/tasklist');
