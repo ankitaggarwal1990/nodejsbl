@@ -6,6 +6,5 @@ config.databaseId = "DevMgmtDB";
 config.collectionId = "rfid";
 
 
-hghgjhgjhgjgjg
 
 module.exports = config;
